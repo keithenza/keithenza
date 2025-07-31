@@ -46,3 +46,15 @@
     We used data from Orbis to predict the credit risk default probability of public & private companies in the European Union using XGBoost and made a dashboard using Plotly Dash, as part of our statistical consulting project.
   </li>
 </ul>
+
+
+<h3>Some more info about me:</h3>
+<ul>
+  <li>🌴 I'm from Los Angeles but I am now based in Leuven.</li>
+  <li>💼 I've worked at ZS Associates and Doordash, prior to pursuing my Master's.</li>
+  <li>🎓 I earned my Bachelor's in Applied Math at UCLA (Go Bruins!)</li>
+  <li>📷 I love photography and I like to capture sceneries during my travels!</li>
+</ul>
+
+<h3>If you would like to connect:</h3>
+As you can see in my profile, I'm still improving (and really trying!) my Github presence + coding skills + data engineering knowledge 😅. If you would like to connect, you can reach me at <a href="https://www.linkedin.com/in/keithatienza/">LinkedIn</a> or at keithatienza19@gmail.com. Thanks for checking out my Github! 🤙
