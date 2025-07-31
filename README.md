@@ -18,4 +18,31 @@
 <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </p>
 
-<h3>Some projects I've done:</h3>
+<h3>Some projects I've worked on:</h3>
+<ul>
+  <li>
+    <a href="https://github.com/keithenza/WWI-Poster-Analysis-Datathon">Simulating AI Agents Response to WWII Propaganda Using TinyTroupe</a> (Best Pitch Prize at Datathon 2025)
+    <br/>
+    We used TinyTroupe to simulate the reaction of AI agents (that were tasked to assume the personality of a Belgian citizen during WWII) to real German-made propaganda. This is a proof-of-concept project to check on the applications of AI towards (dis)information in current media. 
+  </li>
+  <li>
+    <a href="https://github.com/keithenza/Horizon-Europe-MDA">Analyzing Horizon Europe Projects with RAG Implementation</a>
+    <br/>
+    We made a website that analyzes the impact and scale of projects in Horizon Europe. We also made a RAG (locally-hosted only, unfortunately) to allow users understand the projects more easily in the billion-euro initiative.
+  </li>
+  <li>
+    <a href="https://github.com/keithenza/Advanced-Analytics-Assignments/tree/main/Assignment%201">Using AutoML for Real Estate Price Predictions</a>
+    <br/>
+    We used AutoML to predict real estate prices in Belgium that were scraped from online listing websites using information such as area, location, postal code, number of bedrooms, etc. in a tabular format. We earned second-place from the whole class, with the main drivers being efficient data cleaning and acute data transformations + augmentation.
+  </li>
+  <li>
+    <a href="https://github.com/keithenza/Advanced-Analytics-Assignments/tree/main/Assignment%202/notebooks">Classifying Countries of Google Street Map Images using Transfer Learning with Keras</a>
+    <br/>
+    We used Keras for a transfer learning machine learning exercise using EfficientNetB6 to classify scraped Google Street Map images into their respective countries (akin to GeoGuesser), achieving a roughly 78% accuracy across 12 countries.
+  </li>
+    <li>
+    <a href="https://github.com/keithenza/credit-default-risk-modeling">Credit Default Risk Modeling from Augemented Data from Public Sources</a>
+    <br/>
+    We used data from Orbis to predict the credit risk default probability of public & private companies in the European Union using XGBoost and made a dashboard using Plotly Dash, as part of our statistical consulting project.
+  </li>
+</ul>
