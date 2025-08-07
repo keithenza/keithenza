@@ -57,4 +57,4 @@
 </ul>
 
 <h3>If you would like to connect:</h3>
-As you can see in my profile, I'm still improving (and really trying!) my Github presence + coding skills + data engineering knowledge 😅. If you would like to connect, you can reach me at <a href="https://www.linkedin.com/in/keithatienza/">LinkedIn</a> or at keithatienza19@gmail.com. Thanks for checking out my Github! 🤙
+I'm still actively learning and improving my Github + coding skills + data engineering knowledge 😅. If you would like to connect, you can reach me at <a href="https://www.linkedin.com/in/keithatienza/">LinkedIn</a> or at keithatienza19@gmail.com. Thanks for checking out my page! 🤙
